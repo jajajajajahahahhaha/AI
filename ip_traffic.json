@@ -2,20 +2,9 @@
     "37.63.159.178": {
         "user": "Main_kill_pv2_8086",
         "first_seen": 1783699279,
-        "last_seen": 1783699496,
+        "last_seen": 1783699593,
         "used_bytes": 0,
         "sites": [
-            "alive.github.com",
-            "content-autofill.googleapis.com",
-            "clients4.google.com",
-            "i.ytimg.com",
-            "youtubei.googleapis.com",
-            "redirector.googlevideo.com",
-            "rr3---sn-vgqsrnzr.googlevideo.com",
-            "rr5---sn-vgqsrnsd.googlevideo.com",
-            "rr3---sn-vgqsrn67.googlevideo.com",
-            "www.youtube.com",
-            "yt3.ggpht.com",
             "rr4---sn-vgqsrnlz.googlevideo.com",
             "s.youtube.com",
             "rr1---sn-vgqsrnlk.googlevideo.com",
@@ -24,8 +13,19 @@
             "web.facebook.com",
             "rr1---sn-vgqsrnsd.googlevideo.com",
             "rr5---sn-vgqsrned.googlevideo.com",
-            "rr3---sn-vgqsrnls.googlevideo.com"
+            "rr3---sn-vgqsrnls.googlevideo.com",
+            "rr4---sn-vgqsrnz6.googlevideo.com",
+            "rr1---sn-vgqsrnsr.googlevideo.com",
+            "rr4---sn-vgqsrnsr.googlevideo.com",
+            "lh3.googleusercontent.com",
+            "tpc.googlesyndication.com",
+            "rr1---sn-vgqsrnzz.googlevideo.com",
+            "mqtt-mini.facebook.com",
+            "www.google.com",
+            "ad.doubleclick.net",
+            "rr2---sn-vgqsrnzy.googlevideo.com",
+            "rr2---sn-vgqsrnzz.googlevideo.com"
         ],
-        "connections": 96
+        "connections": 136
     }
 }
